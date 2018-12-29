@@ -1,4 +1,4 @@
-# Mullog [![CircleCI](https://circleci.com/gh/zachlatta/mullog.svg?style=svg)](https://circleci.com/gh/zachlatta/mullog)
+# Mullog
 
 Mullog is a personal wiki powered by [Gollum](https://github.com/gollum/gollum).
 
@@ -32,7 +32,7 @@ And deploy it the same way you deploy any other Rack app!
 ## What the heck is a Mullog?
 
 ```ruby
-"gollum".reverse
+'gollum'.reverse
 ```
 
 ## License
