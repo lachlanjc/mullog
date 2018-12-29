@@ -1,4 +1,4 @@
-FROM ruby:2.4-alpine
+FROM ruby:2.5-alpine
 MAINTAINER Zach Latta <zach@zachlatta.com>
 
 RUN apk update && apk add --no-cache alpine-sdk git icu-dev
